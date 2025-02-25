@@ -29,6 +29,7 @@ Este projeto foi desenvolvido seguindo as instruções das aulas para explorar c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />  
 
+</br>
 ## 🚀 Funcionalidades Implementadas
 - Configuração do ambiente de desenvolvimento
 - Criação do projeto com Spring Initializr
